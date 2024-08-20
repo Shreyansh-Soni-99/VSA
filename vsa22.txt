@@ -1,3 +1,1 @@
 This file is for VSA22 Batch 
-
-This is vsa22 branch
